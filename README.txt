@@ -1,17 +1,16 @@
-=== Twenty Seventeen ===
-Contributors: the WordPress team
+=== Bootstrap 4 Boilerplate ===
+Contributors: redelement
 Requires at least: WordPress 4.7
 Tested up to: WordPress 5.0-trunk
-Version: 1.5
+Version: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
 
 == Description ==
 
-Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device.
-
-For more information about Twenty Seventeen please go to https://codex.wordpress.org/Twenty_Seventeen.
+This theme is designed to be a launching point for your custom Wordpress design. It is based on the Twenty Seventeen theme but stripped down to includes only 
+the required basics
 
 == Installation ==
 
@@ -23,8 +22,8 @@ For more information about Twenty Seventeen please go to https://codex.wordpress
 
 == Copyright ==
 
-Twenty Seventeen WordPress Theme, Copyright 2016 WordPress.org
-Twenty Seventeen is distributed under the terms of the GNU GPL
+Wordpress & Bootstrap 4 Boilerplate WordPress Theme, Copyright 2018 RedElement
+Wordpress & Bootstrap 4 Boilerplate is distributed under the terms of the GNU GPL
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -59,33 +58,5 @@ License: CC0 1.0 Universal (CC0 1.0)
 Source: https://unsplash.com/@englr?photo=bIhpiQA009k
 
 == Changelog ==
-
-= 1.5 =
-* Released: April 4, 2018
-
-https://codex.wordpress.org/Twenty_Seventeen_Theme_Changelog#Version_1.5
-
-= 1.4 =
-* Released: November 14, 2017
-
-https://codex.wordpress.org/Twenty_Seventeen_Theme_Changelog#Version_1.4
-
-= 1.3 =
-* Released: June 8, 2017
-
-https://codex.wordpress.org/Twenty_Seventeen_Theme_Changelog#Version_1.3
-
-= 1.2 =
-* Released: April 18, 2017
-
-https://codex.wordpress.org/Twenty_Seventeen_Theme_Changelog#Version_1.2
-
-= 1.1 =
-* Released: January 6, 2017
-
-https://codex.wordpress.org/Twenty_Seventeen_Theme_Changelog#Version_1.1
-
-= 1.0 =
-* Released: December 6, 2016
 
 Initial release
